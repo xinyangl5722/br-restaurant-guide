@@ -4,4 +4,4 @@
 Select a restaurant:
 ## Bayridge Sushi http://www.brsushi.com/
 ---
-[Start Over](../asian/asian.md)
+[Start Over](../home.md)
