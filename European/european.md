@@ -3,6 +3,6 @@
 ---
 Select a specific Asian food:
 ## [Greek](greek.md)
-## [Mediterranean](mediterranean.md)
+## [Mediterranean](mediterranean)
 ---
 [start over](../home.md)
